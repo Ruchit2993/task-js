@@ -54,6 +54,6 @@
         console.error('Error fetching users:', error);
         window.location.href = 'index.html';
       }
-    }
+    } 
 
     loadDashboard();
